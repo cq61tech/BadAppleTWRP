@@ -25,6 +25,12 @@ Credits: cq61tech
 
 The first frames may look cropped or misaligned on other screens. Flash `rows_calibration.zip` once, count the fully visible numbered lines at the end, and use that number as `ba_rows` (see below).
 
+## Tested Devices
+
+| Device | Android Version | Codename | Recovery | Rec Version | Status |
+| --- | --- | --- | --- |
+| Galaxy S9+ | Android 16 | star2lte | TWRP | v3.7.0-9.0 | Working Good✅ |
+
 ## Settings
 
 Settings are read from the root of any mounted storage. The zip name overrides files.
