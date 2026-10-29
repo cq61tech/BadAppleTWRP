@@ -1,0 +1,7 @@
+dist/
+frames/*.txt
+*.mp4
+*.webm
+*.mkv
+__pycache__/
+*.pyc
