@@ -28,7 +28,7 @@ The first frames may look cropped or misaligned on other screens. Flash `rows_ca
 ## Tested Devices
 
 | Device | Android Version | Codename | Recovery | Rec Version | Status |
-| --- | --- | --- | --- |
+|---|---|---|---|---|---|
 | Galaxy S9+ | Android 16 | star2lte | TWRP | v3.7.0-9.0 | Working Good✅ |
 
 ## Settings
