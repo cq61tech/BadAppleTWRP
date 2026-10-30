@@ -30,6 +30,11 @@ The first frames may look cropped or misaligned on other screens. Flash `rows_ca
 | Device | Android Version | Codename | Recovery | Rec Version | Status |
 |---|---|---|---|---|---|
 | Galaxy S9+ | Android 16 | star2lte | TWRP | v3.7.0-9.0 | Working Good✅ |
+| Infinix GT20 Pro | Android 16 | X6871 | OrangeFox | - | Working • |
+| TECNO POVA 5 | Android 17 | LH7n | OrangeFox | - | Working |
+| Infinix NOTE 30 | Android 16 | X6833B | OrangeFox | - | Working |
+| Galaxy S9+ | Android 16 | star2lte | Evo X Recovery | 11.8 | Not Working |
+| Galaxy S9+ | Android 16 | star2lte | OrangeFox | R11.0 | Working |
 
 ## Settings
 
